@@ -1,0 +1,114 @@
+[17/Jun/2019:07:01:40 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:07:01:40 +0000] boa: server built Jun 17 2019 at 14:31:40.
+[17/Jun/2019:07:01:40 +0000] boa: starting server pid=6186, port 80
+[17/Jun/2019:07:02:57 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:02:57 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:03:54 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:14:30 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:33:51 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:33:55 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:33:55 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:33:55 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:33:55 +0000] request from 127.0.0.1 "GET /images/huaqing002.jpg HTTP/1.1" ("/boa/www/images/huaqing002.jpg"): document open: No such file or directory
+[17/Jun/2019:07:34:35 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:34:40 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:34:40 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:34:40 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:34:40 +0000] request from 127.0.0.1 "GET /images/huaqing002.jpg HTTP/1.1" ("/boa/www/images/huaqing002.jpg"): document open: No such file or directory
+[17/Jun/2019:07:34:40 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:36:11 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:36:16 +0000] request from 127.0.0.1 "GET /images/huaqing002.jpg HTTP/1.1" ("/boa/www/images/huaqing002.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:16 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:16 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:36:16 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:16 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:18 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:36:18 +0000] request from 127.0.0.1 "GET /images/huaqing002.jpg HTTP/1.1" ("/boa/www/images/huaqing002.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:18 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:18 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:18 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:19 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:36:19 +0000] request from 127.0.0.1 "GET /images/huaqing002.jpg HTTP/1.1" ("/boa/www/images/huaqing002.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:19 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:19 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:19 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:36:20 +0000] request from 127.0.0.1 "GET /main2.html HTTP/1.1" ("/boa/www/main2.html"): document open: No such file or directory
+[17/Jun/2019:07:37:51 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:37:55 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:37:55 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:37:55 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:37:55 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:37 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:41:42 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:41:42 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:42 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:42 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:43 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:43 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:43 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:43 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:41:44 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:41:44 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:44 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:44 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:45 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:41:45 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:45 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:45 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:46 +0000] cgi_header: unable to find LFLF
+[17/Jun/2019:07:41:46 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:46 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:41:46 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:45:14 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:45:19 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:45:19 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:45:19 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:08:06:29 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:08:06:38 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:08:06:55 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:08:06:55 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:08:06:55 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:21 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:08:07:58 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:58 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:58 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:58 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:58 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:58 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:59 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:59 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:08:07:59 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:08:16:19 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:08:16:37 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:08:16:37 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:08:16:37 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:08:16:37 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:16:37 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:43:41 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:08:43:47 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:08:43:47 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:08:43:47 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:11:07:22 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:11:07:22 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:11:07:22 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:11:07:22 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:11:52:35 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:11:52:35 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:11:52:35 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:11:52:35 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:12:06:17 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:12:06:17 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:12:06:17 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:12:06:30 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:12:06:30 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:12:06:30 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:12:06:30 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:12:06:30 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:12:22:41 +0000] request from 127.0.0.1 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:12:22:41 +0000] request from 127.0.0.1 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:12:22:41 +0000] request from 127.0.0.1 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:12:22:41 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:12:22:41 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[18/Jun/2019:01:58:46 +0000] boa: server version Boa/0.94.13
+[18/Jun/2019:01:58:46 +0000] boa: server built Jun 17 2019 at 14:31:40.
+[18/Jun/2019:01:58:46 +0000] boa: starting server pid=3044, port 80

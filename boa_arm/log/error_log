@@ -1,0 +1,143 @@
+[17/Jun/2019:07:18:46 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:07:18:46 +0000] boa: server built Jun 17 2019 at 16:14:28.
+[17/Jun/2019:07:18:46 +0000] boa: starting server pid=26518, port 80
+[17/Jun/2019:07:18:59 +0000] malformed request: ""
+[17/Jun/2019:07:18:59 +0000] malformed request: ""
+[17/Jun/2019:07:19:08 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:23:39 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:07:24:02 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:26:16 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:07:26:16 +0000] boa: server built Jun 17 2019 at 16:14:28.
+[17/Jun/2019:07:26:16 +0000] boa: starting server pid=26725, port 80
+[17/Jun/2019:07:26:37 +0000] malformed request: ""
+[17/Jun/2019:07:26:37 +0000] malformed request: ""
+[17/Jun/2019:07:26:42 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:29:53 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:07:29:53 +0000] boa: server built Jun 17 2019 at 16:14:28.
+[17/Jun/2019:07:29:53 +0000] boa: starting server pid=26912, port 80
+[17/Jun/2019:07:30:51 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:32:20 +0000] request from 192.168.1.187 "GET /images/huaqing2.jpg HTTP/1.1" ("/boa/www/images/huaqing2.jpg"): document open: No such file or directory
+[17/Jun/2019:07:32:20 +0000] request from 192.168.1.187 "GET /images/huaqing002.jpg HTTP/1.1" ("/boa/www/images/huaqing002.jpg"): document open: No such file or directory
+[17/Jun/2019:07:32:20 +0000] request from 192.168.1.187 "GET /images/huaqing9.jpg HTTP/1.1" ("/boa/www/images/huaqing9.jpg"): document open: No such file or directory
+[17/Jun/2019:07:32:20 +0000] request from 192.168.1.187 "GET /images/huaqing10.jpg HTTP/1.1" ("/boa/www/images/huaqing10.jpg"): document open: No such file or directory
+[17/Jun/2019:07:32:25 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:32:25 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:50:32 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:07:50:32 +0000] boa: server built Jun 17 2019 at 16:14:28.
+[17/Jun/2019:07:50:32 +0000] boa: starting server pid=27709, port 80
+[17/Jun/2019:07:50:48 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:51:12 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:51:12 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:55:32 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:07:55:32 +0000] boa: server built Jun 17 2019 at 16:14:28.
+[17/Jun/2019:07:55:32 +0000] boa: starting server pid=28063, port 80
+[17/Jun/2019:07:56:01 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:56:01 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:58:03 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:07:58:03 +0000] boa: server built Jun 17 2019 at 16:14:28.
+[17/Jun/2019:07:58:03 +0000] boa: starting server pid=28209, port 80
+[17/Jun/2019:07:58:07 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:07:58:07 +0000] request from 192.168.1.187 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:00:49 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:08:00:49 +0000] boa: server built Jun 17 2019 at 16:14:28.
+[17/Jun/2019:08:00:49 +0000] boa: starting server pid=28289, port 80
+[17/Jun/2019:08:01:01 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:14:56 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:18:54 +0000] request from 127.0.0.1 "GET /main2.html HTTP/1.1" ("/boa/www/main2.html"): document open: No such file or directory
+[17/Jun/2019:08:26:53 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:27:30 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:28:26 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:28:26 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:31:39 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:31:39 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:32:14 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:32:14 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:32:52 +0000] request from 192.168.1.103 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:34:09 +0000] request from 192.168.1.103 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:35:52 +0000] request from 192.168.1.103 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:39:46 +0000] caught SIGTERM, starting shutdown
+[17/Jun/2019:08:39:46 +0000] exiting Boa normally (uptime 2337 seconds)
+[17/Jun/2019:08:52:11 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:08:52:11 +0000] boa: server built Jun 17 2019 at 17:46:48.
+[17/Jun/2019:08:52:11 +0000] boa: starting server pid=3209, port 80
+[17/Jun/2019:08:52:31 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:53:39 +0000] request from 192.168.1.103 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:08:58:54 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:08:58:54 +0000] boa: server built Jun 17 2019 at 17:46:48.
+[17/Jun/2019:08:58:54 +0000] boa: starting server pid=3490, port 80
+[17/Jun/2019:08:59:20 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:09:13:19 +0000] boa.c:194 - unable to bind: Address already in use
+[17/Jun/2019:09:13:27 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:09:23:37 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:09:23:37 +0000] boa: server built Jun 17 2019 at 17:46:48.
+[17/Jun/2019:09:23:37 +0000] boa: starting server pid=3861, port 80
+[17/Jun/2019:09:23:50 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:09:30:15 +0000] boa: server version Boa/0.94.13
+[17/Jun/2019:09:30:15 +0000] boa: server built Jun 17 2019 at 17:46:48.
+[17/Jun/2019:09:30:15 +0000] boa: starting server pid=4013, port 80
+[17/Jun/2019:09:31:27 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[17/Jun/2019:09:33:08 +0000] request from 127.0.0.1 "GET /boa/cgi-bin/test.cgi HTTP/1.1" ("/boa/www/boa/cgi-bin/test.cgi"): document open: No such file or directory
+[18/Jun/2019:01:05:59 +0000] boa: server version Boa/0.94.13
+[18/Jun/2019:01:05:59 +0000] boa: server built Jun 17 2019 at 17:46:48.
+[18/Jun/2019:01:05:59 +0000] boa: starting server pid=3273, port 80
+[18/Jun/2019:01:06:34 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[18/Jun/2019:01:07:15 +0000] request from 127.0.0.1 "GET /home/linux/boa/cgi-bin/test.cgi HTTP/1.1" ("/boa/www/home/linux/boa/cgi-bin/test.cgi"): document open: No such file or directory
+[18/Jun/2019:01:07:33 +0000] request from 127.0.0.1 "GET /test.cgi HTTP/1.1" ("/boa/www/test.cgi"): document open: No such file or directory
+[18/Jun/2019:01:07:49 +0000] request from 127.0.0.1 "GET /cgi_bin/test.cgi HTTP/1.1" ("/boa/www/cgi_bin/test.cgi"): document open: No such file or directory
+[18/Jun/2019:02:08:58 +0000] boa.c:194 - unable to bind: Address already in use
+[18/Jun/2019:02:10:05 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[18/Jun/2019:02:10:49 +0000] request from 192.168.1.104 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[18/Jun/2019:02:15:40 +0000] boa: server version Boa/0.94.13
+[18/Jun/2019:02:15:40 +0000] boa: server built Jun 17 2019 at 17:46:48.
+[18/Jun/2019:02:15:40 +0000] boa: starting server pid=4217, port 80
+[18/Jun/2019:02:16:31 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[18/Jun/2019:02:16:57 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[18/Jun/2019:02:16:57 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:18:12:10 +0000] boa.c:211 - getpwuid: No such file or directory
+[20/Feb/2015:18:19:41 +0000] boa.c:211 - getpwuid: No such file or directory
+[20/Feb/2015:18:28:31 +0000] boa.c:211 - getpwuid: No such file or directory
+[20/Feb/2015:18:34:02 +0000] boa: server version Boa/0.94.13
+[20/Feb/2015:18:34:02 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[20/Feb/2015:18:34:02 +0000] boa: starting server pid=114, port 80
+[20/Feb/2015:18:34:22 +0000] cgi_header: unable to find LFLF
+[20/Feb/2015:18:34:22 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:18:34:22 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:18:40:34 +0000] boa: server version Boa/0.94.13
+[20/Feb/2015:18:40:34 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[20/Feb/2015:18:40:34 +0000] boa: starting server pid=114, port 80
+[20/Feb/2015:18:41:00 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:20:41:23 +0000] boa: server version Boa/0.94.13
+[20/Feb/2015:20:41:23 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[20/Feb/2015:20:41:23 +0000] boa: starting server pid=118, port 80
+[20/Feb/2015:20:41:50 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:21:14:01 +0000] boa: server version Boa/0.94.13
+[20/Feb/2015:21:14:01 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[20/Feb/2015:21:14:01 +0000] boa: starting server pid=115, port 80
+[20/Feb/2015:21:14:42 +0000] malformed request: ""
+[20/Feb/2015:21:15:01 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:21:15:02 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:23:33:01 +0000] boa: server version Boa/0.94.13
+[20/Feb/2015:23:33:01 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[20/Feb/2015:23:33:01 +0000] boa: starting server pid=117, port 80
+[20/Feb/2015:23:37:28 +0000] boa: server version Boa/0.94.13
+[20/Feb/2015:23:37:28 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[20/Feb/2015:23:37:28 +0000] boa: starting server pid=151, port 80
+[20/Feb/2015:23:37:32 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[20/Feb/2015:23:44:26 +0000] boa: server version Boa/0.94.13
+[20/Feb/2015:23:44:26 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[20/Feb/2015:23:44:26 +0000] boa: starting server pid=114, port 80
+[20/Feb/2015:23:44:35 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[21/Feb/2015:00:25:40 +0000] boa: server version Boa/0.94.13
+[21/Feb/2015:00:25:40 +0000] boa: server built Jun 18 2019 at 12:35:10.
+[21/Feb/2015:00:25:40 +0000] boa: starting server pid=115, port 80
+[21/Feb/2015:00:26:25 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[21/Feb/2015:00:26:26 +0000] request from 192.168.1.101 "GET /favicon.ico HTTP/1.1" ("/boa/www/favicon.ico"): document open: No such file or directory
+[21/Feb/2015:00:27:31 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:28:42 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:29:52 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:31:02 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:33:42 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:33:42 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:34:52 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:36:01 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
+[21/Feb/2015:00:37:30 +0000] request from 192.168.1.101 "GET /cgi-bin/env2.cgi HTTP/1.1" ("/boa/cgi-bin/env2.cgi"): connection timed out
